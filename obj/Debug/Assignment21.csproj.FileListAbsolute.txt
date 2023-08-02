@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAy-18\Assignment21\Assignment21\bin\Debug\Assignment21.exe.config
+F:\Training Stuff\Dot netTraining\DAy-18\Assignment21\Assignment21\bin\Debug\Assignment21.exe
+F:\Training Stuff\Dot netTraining\DAy-18\Assignment21\Assignment21\bin\Debug\Assignment21.pdb
+F:\Training Stuff\Dot netTraining\DAy-18\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAy-18\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAy-18\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAy-18\Assignment21\Assignment21\obj\Debug\Assignment21.exe
+F:\Training Stuff\Dot netTraining\DAy-18\Assignment21\Assignment21\obj\Debug\Assignment21.pdb
